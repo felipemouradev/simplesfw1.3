@@ -1,0 +1,38 @@
+body {
+  padding-top: 50px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.vagas {
+	font-family: 'Source Sans Pro', sans-serif;
+	float: left;
+	margin: 0 4px 4px 4px;
+	background: #999999;
+	padding: 8px;
+	width: 220;
+	border-radius: 6px;
+}
+
+.vagas p {
+}
+
+.impacto {
+	margin-top: 15px;
+	padding: 20px;
+	background: #BBBBBB;
+	border-radius: 6px;
+}
+.impacto h1 small{
+	color: #000000;
+}
+.form {
+	margin: 15px;
+}
+.flash {
+	width: 100%;
+	height: auto;
+	padding: 8px;
+	border-radius: 6px;
+}
+.top {
+	margin-top: 15px;
+}
